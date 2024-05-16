@@ -1,4 +1,3 @@
 # Mach-arons
-git clone https://github.com/kmach1/Mach-arons.git
-cd Mach-arons
-git checkout -b feature/README.md
+Build your own Macarons! https://github.com/kmach1/Mach-arons.git
+
